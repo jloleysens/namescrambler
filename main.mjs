@@ -11,4 +11,4 @@ process.stdout.write('\n');
 process.exit(0);
 
 // node main.js "hello world"
-// echo "echo "\"hello world\"" | xargs node main.mjs"
+// echo "\"hello world\"" | xargs node main.mjs"
